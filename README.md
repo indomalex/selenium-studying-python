@@ -1,2 +1,2 @@
-# selenium-studying
-selenium的相关代码收藏
+# selenium-studying-python
+selenium的相关python代码收藏
